@@ -2,7 +2,8 @@
 
 ### Web Developer | Full Stack 
 
-I am a developer passionate about building efficient and functional web solutions. My main focus is on Server-Side development (Backend) and database management, although I also enjoy designing clean and modern user interfaces.
+PHP | Python | Backend | Databases | AI
+Building efficient systems
 
 ---
 
