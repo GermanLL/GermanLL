@@ -1,12 +1,12 @@
-# ¡Hola! Soy German Luna 👋
+# Hi there! I'm German Luna 👋
 
 ### Web Developer | Full Stack Enthusiast
 
-Soy un desarrollador apasionado por crear soluciones web eficientes y funcionales. Me enfoco principalmente en el desarrollo del lado del servidor (Backend) y la gestión de bases de datos, aunque disfruto diseñando interfaces de usuario claras y modernas.
+I am a developer passionate about building efficient and functional web solutions. My main focus is on Server-Side development (Backend) and database management, although I also enjoy designing clean and modern user interfaces.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tech Stack & Tools
 
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,29 +20,24 @@ Soy un desarrollador apasionado por crear soluciones web eficientes y funcionale
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-**Herramientas:**
+**Tools:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Featured Projects
 
-* **ABM Clientes:** Sistema de administración de base de datos para gestión de clientes (CRUD).
-* **Sistema de Ventas:** Aplicación integral para control de inventario y facturación desarrollada en PHP.
-* **Portal Burger:** Landing page moderna para un emprendimiento gastronómico.
+* **Portal Burger:** A modern landing page for a food business.
+* **Sales System:** An all-in-one application for inventory control and billing developed in PHP.
+* **ABM Customers:** A client administration system for database management (CRUD).
 
 ---
 
-### 📫 Conéctate conmigo
+### 📫 Connect with me
 
 * 📍 Córdoba, Argentina
-* 💼 [LinkedIn](TU_LINK_DE_LINKEDIN_AQUI)
-* 🌐 [Portfolio/Demo](TU_LINK_DE_INFINITYFREE_O_PORTFOLIO)
+* 💼 [LinkedIn](https://www.linkedin.com/in/germanluisluna)
+* 🌐 [Portfolio/Live Demo] (https://germanluna.com)
 
 ---
-
-### 📊 Mis Estadísticas de GitHub
-
-![Estadísticas de GermanLL](https://github-readme-stats.vercel.app/api?username=GermanLL&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanLL&layout=compact&theme=radical)
