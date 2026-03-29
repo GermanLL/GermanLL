@@ -38,6 +38,6 @@ I am a developer passionate about building efficient and functional web solution
 
 * 📍 Córdoba, Argentina
 * 💼 [LinkedIn](https://www.linkedin.com/in/germanluisluna)
-* 🌐 [Portfolio/Live Demo](https://germanluna.com)
+* 🌐 [Portfolio](https://germanluna.com)
 
 ---
