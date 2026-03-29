@@ -2,8 +2,7 @@
 
 ### Web Developer | Full Stack 
 
-PHP | Python | Backend | Databases | AI
-Building efficient systems
+Hello, I'm Germán Luna, a web developer. I'm currently seeking an opportunity where I can apply my knowledge and skills while collaborating with other professionals to build impactful and efficient solutions.
 
 ---
 
