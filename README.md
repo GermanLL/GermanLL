@@ -1,6 +1,6 @@
 # Hi there! I'm German Luna 👋
 
-### Web Developer | Full Stack Enthusiast
+### Web Developer | Full Stack 
 
 I am a developer passionate about building efficient and functional web solutions. My main focus is on Server-Side development (Backend) and database management, although I also enjoy designing clean and modern user interfaces.
 
@@ -38,6 +38,6 @@ I am a developer passionate about building efficient and functional web solution
 
 * 📍 Córdoba, Argentina
 * 💼 [LinkedIn](https://www.linkedin.com/in/germanluisluna)
-* 🌐 [Portfolio/Live Demo] (https://germanluna.com)
+* 🌐 [Portfolio/Live Demo](https://germanluna.com)
 
 ---
