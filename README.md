@@ -39,9 +39,9 @@ Hello, I'm Germán Luna, a web developer. I'm currently seeking an opportunity w
 
 ### 🚀 Featured Projects
 
-* **Portal Burger:** A modern landing page for a food business.
-* **Sales System:** An all-in-one application for inventory control and billing developed in PHP.
-* **ABM Customers:** A client administration system for database management (CRUD).
+* [**burger-ordering-system:**](https://github.com/GermanLL/Portalburger.web) A modern landing page for a food business.
+* [**sales-management-app:**](https://github.com/GermanLL/Sistemaventas.germanluna) An all-in-one application for inventory control and billing developed in PHP.
+* [**client-management-system:**](https://github.com/GermanLL/Abmclientes.germanluna) A client administration system for database management (CRUD).
 
 ---
 
