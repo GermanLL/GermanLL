@@ -48,5 +48,5 @@ Hello! I'm Germán Luna, a web developer. I'm currently seeking an opportunity w
 <p align="left">
   📍 <b>Location:</b> Córdoba, Argentina <br/>
   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/germanluisluna</a> <br/>
-  🌐 <b>Portfolio:</b> <a href="https://lunacode.html-5.me/?i=1</a>
+  🌐 <b>Portfolio:</b> <a href="https://www.lunacode.html-5.me</a>
 </p>
