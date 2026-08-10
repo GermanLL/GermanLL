@@ -36,14 +36,14 @@ Hello, I'm Germán Luna, a web developer. I'm currently seeking an opportunity w
 
 ## 🚀 Featured Projects
 
-* **[burger-ordering-system](#):** Full-stack restaurant order management system with admin dashboard, dynamic catalog, shopping cart, and real-time sales tracking.
-* **[sales-management-app](#):** Inventory control and billing application with CRUD functionality.
-* **[client-management-system](#):** Client administration system for database management (CRUD).
+* **[burger-ordering-system](https://github.com/GermanLL/Portalburger.web):** Full-stack restaurant order management system with admin dashboard, dynamic catalog, shopping cart, and real-time sales tracking.
+* **[sales-management-app](https://github.com/GermanLL/Sistemaventas.germanluna):** Inventory control and billing application with CRUD functionality.
+* **[client-management-system](https://github.com/GermanLL/Abmclientes.germanluna):** Client administration system for database management (CRUD).
 
 ---
 
 ## 📬 Connect with me
 
 * 📍 Córdoba, Argentina
-* 💼 [LinkedIn](https://linkedin.com)
-* 🌐 [Portfolio](https://portfolio.com)
+* 💼 [LinkedIn](https://linkedin.com/in/germanluisluna)
+* 🌐 [Portfolio]([https://portfolio.com](https://lunacode.html-5.me])
